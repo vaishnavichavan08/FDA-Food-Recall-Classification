@@ -1,0 +1,22 @@
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.zip
+
+# Trained model files
+*.joblib
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
